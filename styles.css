@@ -63,3 +63,20 @@ body {
   padding-top: 60px;
   padding-left: 355px;
 }
+
+.dashboard-header{
+  text-align: center;
+  color: lightseagreen;
+  left: 80px;
+  font-weight: bold;
+  line-height: 30px;
+  font-size: larger;
+}
+.insights h1{
+  color: lightseagreen;
+}
+.insights{
+  font-size: large;
+  padding-left: 40px;
+  line-height: 30px;
+}
